@@ -64,6 +64,10 @@ public class Train {
     public String getTrainInfo(){
         return String.format("Train ID: %s Train No: %s", trainId, trainNo);
     }
+//    public void String getInfo(){
+//        this.stations=stations;
+//
+//    }
 
 }
 
