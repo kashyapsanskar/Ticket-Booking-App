@@ -63,7 +63,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Ticket-Booking-App.git
+   git clone https://github.com/kashyapsanskar/Ticket-Booking-App.git
    cd Ticket-Booking-App
    ```
 2. **Build the Project**
